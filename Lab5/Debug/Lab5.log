@@ -1,0 +1,18 @@
+﻿  Lab5_functions.cpp
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(80,24): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(80,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(192,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(298,12): warning C4098: add_adjs: функция типа "void", возвращающая значение
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(303,12): warning C4098: add_adjs: функция типа "void", возвращающая значение
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(329,1): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(327,19): warning C4101: N: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(327,15): warning C4101: res: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(327,21): warning C4101: i: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(626,30): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(626,30): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(835,18): warning C4101: y: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(835,15): warning C4101: x: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(1005,19): warning C4101: j: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(503): warning C4715: search_list: значение возвращается не при всех путях выполнения
+C:\Users\devsy\source\repos\Lab5\Lab5_functions.cpp(1047): warning C4715: d_search_path_FW: значение возвращается не при всех путях выполнения
+  Lab5.vcxproj -> C:\Users\devsy\source\repos\Lab5\Debug\Lab5.exe

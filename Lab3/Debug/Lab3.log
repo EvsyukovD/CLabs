@@ -1,0 +1,5 @@
+﻿  Lab3(b).cpp
+C:\Users\devsy\source\repos\Lab3\Lab3(b).cpp(20,43): warning C4020: fptrs: слишком много фактических параметров
+C:\Users\devsy\source\repos\Lab3\Lab3(b).cpp(8,1): warning C4113: "int (__cdecl *)(void *,void *)" отличается в списках параметров от "int (__cdecl *)(table *)"
+C:\Users\devsy\source\repos\Lab3\Lab3(b).cpp(8,1): warning C4113: "int (__cdecl *)(table *,char *)" отличается в списках параметров от "int (__cdecl *)(table *)"
+  Lab3.vcxproj -> C:\Users\devsy\source\repos\Lab3\Debug\Lab3.exe

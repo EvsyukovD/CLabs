@@ -1,0 +1,2 @@
+C:\Users\devsy\source\repos\Lab3\Debug\Lab3.exe
+C:\Users\devsy\source\repos\Lab3\Debug\Lab3.pdb

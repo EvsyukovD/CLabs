@@ -1,0 +1,18 @@
+﻿  Lab4_functions(b).cpp
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(49,30): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(49,30): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(68,30): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(68,30): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(250,29): warning C4047: функция: "unsigned int" отличается по уровням косвенного обращения от "unsigned int *"
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(250,27): warning C4024: minimum: различные типы для формального и фактического параметров 2
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(313,20): warning C4098: first_equal_min_dist: функция типа "void", возвращающая значение
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(518,9): warning C4101: h: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(653,27): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(656,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(651,16): warning C4101: n: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(842,36): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(842,36): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(901,9): warning C4101: offset: неиспользованная локальная переменная
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(227): warning C4715: search_deep: значение возвращается не при всех путях выполнения
+C:\Users\devsy\source\repos\Lab4\Lab4_functions(b).cpp(446): warning C4715: insert: значение возвращается не при всех путях выполнения
+  Lab4.vcxproj -> C:\Users\devsy\source\repos\Lab4\Debug\Lab4.exe
